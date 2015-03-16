@@ -1,0 +1,45 @@
+h1{
+	font-family: Helvetica;
+	font-size: 5em;
+	text-align: center;
+}
+
+#weather{
+        margin:120px auto;
+        height:31em;        
+        width: 31em;
+        top: 5em;
+        position: relative;
+		top: -9em;
+		text-align:center;
+		border:.5em solid black;
+		background-color: black;
+}
+h1, h2, h3{
+	font-family: 'Helvetica', sans-serif;
+	color: black;
+}
+
+ul{
+	font-size: 3em;
+	color: black;
+	font-family: Helvetica;
+	list-style-type: none;
+	position: relative;
+	padding: 1em;
+	margin: 0em;
+
+}
+
+.container img{
+	width: 60%;
+	height:auto;
+}
+
+.field{
+	position: absolute;
+	right: 6em;
+	bottom: 0;
+	font-family: Helvetica;
+	color: black;
+}
